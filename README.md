@@ -8,7 +8,7 @@
 
 1.下载vlmcsd
 
-     wget https://github.com/Wind4/vlmcsd/archive/svn1113.tar.gz
+     wget https://github.com/Wind4/vlmcsd/releases/download/svn1111/binaries.tar.gz
 
 2.解压
 
